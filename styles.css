@@ -22,6 +22,7 @@ li.navbar a {
   font-size: 4vh;
   padding: 2vh 2vw;
   text-decoration: none;
+  margin: 0;
 }
 li.navbar a:hover {
   background-color: #bbb;
