@@ -3,6 +3,7 @@ div.navbar {
   width: 100vw;
   height: 10.75vh;
   border-bottom: 2px solid #bbb;
+  margin: 0;
 }
 ul.navbar {
   list-style-type: none;
