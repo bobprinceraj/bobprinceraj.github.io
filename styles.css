@@ -20,7 +20,7 @@ li.navbar a {
   color: white;
   text-align: center;
   font-size: 4vh;
-  padding: 2vw 2vh;
+  padding: 2vh 2vw;
   text-decoration: none;
 }
 li.navbar a:hover {
