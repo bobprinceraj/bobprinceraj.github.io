@@ -12,12 +12,13 @@ li.navbar {
   float: right;
 }
 li.navbar a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 4vh;
-    text-decoration: none;
+  display: block;
+  color: white;
+  text-align: center;
+  font-size: 4vh;
+  padding: 3vh;
+  text-decoration: none;
 }
 li.navbar a:hover {
-    background-color: #111;
+  background-color: #111;
 }
