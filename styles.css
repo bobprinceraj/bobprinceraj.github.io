@@ -5,6 +5,7 @@ div.navbar {
   border-bottom: 2px solid #bbb;
   margin: 0;
   padding: 0;
+  float: none;
 }
 ul.navbar {
   list-style-type: none;
