@@ -19,9 +19,7 @@ li.navbar a {
   font-size: 4vh;
   padding: 3vh;
   text-decoration: none;
-  border: 2px solid #bbb;
 }
 li.navbar a:hover {
   background-color: #111;
-  border: #111;
 }
