@@ -1,7 +1,7 @@
 div.navbar {
   background-color: #dddddd;
   width: 100vw;
-  height: 10.75vh;
+  height: 8.75vh;
   border-bottom: 2px solid #bbb;
   margin: 0;
   padding: 0;
@@ -20,7 +20,7 @@ li.navbar a {
   color: white;
   text-align: center;
   font-size: 4vh;
-  padding: 3vh;
+  padding: 2vw 2vh;
   text-decoration: none;
 }
 li.navbar a:hover {
