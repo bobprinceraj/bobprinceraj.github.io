@@ -2,7 +2,7 @@ div.navbar {
   background-color: #dddddd;
   width: 100vw;
   height: 10.75vh;
-  border: 2px solid #bbb;
+  border-bottom: 2px solid #bbb;
 }
 ul.navbar {
   list-style-type: none;
