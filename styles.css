@@ -1,7 +1,8 @@
 div.navbar {
   background-color: #dddddd;
   width: 100vw;
-  height: 11vh;
+  height: 10.75vh;
+  border: 2px solid #bbb;
 }
 ul.navbar {
   list-style-type: none;
@@ -18,7 +19,9 @@ li.navbar a {
   font-size: 4vh;
   padding: 3vh;
   text-decoration: none;
+  border: 2px solid #bbb;
 }
 li.navbar a:hover {
   background-color: #111;
+  border: #111;
 }
