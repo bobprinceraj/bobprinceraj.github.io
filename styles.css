@@ -3,7 +3,9 @@ div.navbar {
   width: 100vw;
   height: 10.75vh;
   border-bottom: 2px solid #bbb;
-  float: left;
+  margin: 0;
+  padding: 0;
+  position: fixed;
 }
 ul.navbar {
   list-style-type: none;
