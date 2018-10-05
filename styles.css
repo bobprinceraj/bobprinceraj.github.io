@@ -11,10 +11,10 @@ ul.navbar {
   margin: 0;
   padding: 0;
 }
-li.navbar {
+ul.navbar li {
   float: right;
 }
-li.navbar a {
+ul.navbar li a {
   display: block;
   color: #555;
   text-align: center;
@@ -23,7 +23,7 @@ li.navbar a {
   text-decoration: none;
   margin: 0;
 }
-li.navbar a:hover {
+ul.navbar li a:hover {
   background-color: #ccc;
 }
 body {
