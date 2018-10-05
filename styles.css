@@ -25,3 +25,7 @@ li.navbar a {
 li.navbar a:hover {
   background-color: #bbb;
 }
+body {
+  margin: 0;
+  padding: 0;
+}
