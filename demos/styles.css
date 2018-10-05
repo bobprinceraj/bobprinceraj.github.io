@@ -4,6 +4,8 @@ div.navbar {
   height: 8.5vh;
   border-bottom: 2px solid #bbb;
   border-top: 2px solid #fff;
+  border-right: 2px solid #bbb;
+  border-left: 2px solid #fff;
   position: sticky;
   margin: auto;
 }
@@ -23,6 +25,8 @@ ul.navbar li a {
   padding: 2vh 2vw;
   text-decoration: none;
   margin: 0;
+  border-right: 2px solid #bbb;
+  border-left: 2px solid #fff;
 }
 ul.navbar li a:hover {
   background-color: #bbb;
