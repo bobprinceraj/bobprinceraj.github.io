@@ -16,7 +16,7 @@ li.navbar {
 }
 li.navbar a {
   display: block;
-  color: white;
+  color: #555;
   text-align: center;
   font-size: 4vh;
   padding: 2vh 2vw;
