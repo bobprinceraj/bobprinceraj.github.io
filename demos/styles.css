@@ -1,8 +1,9 @@
 div.navbar {
-  background-color: #eee;
+  background-color: #ddd;
   width: 100vw;
   height: 8.5vh;
-  border-bottom: 2px solid #ccc;
+  border-bottom: 2px solid #bbb;
+  border-top: 2px solid #fff;
   position: sticky;
   margin: auto;
 }
@@ -24,12 +25,12 @@ ul.navbar li a {
   margin: 0;
 }
 ul.navbar li a:hover {
-  background-color: #ccc;
+  background-color: #bbb;
 }
 body {
   margin: 0;
   padding: 0;
 }
 div {
-  box-shadow: 0px 0px 4px #bbb;
+  box-shadow: 0px 0px 4px #aaa;
 }
