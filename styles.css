@@ -6,6 +6,7 @@ div.navbar {
   margin: 0;
   padding: 0;
   position: fixed;
+  margin: auto;
 }
 ul.navbar {
   list-style-type: none;
