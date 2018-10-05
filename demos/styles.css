@@ -1,0 +1,35 @@
+div.navbar {
+  background-color: #eee;
+  width: 100vw;
+  height: 8.5vh;
+  border-bottom: 2px solid #ccc;
+  position: sticky;
+  margin: auto;
+}
+ul.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+ul.navbar li {
+  float: right;
+}
+ul.navbar li a {
+  display: block;
+  color: #555;
+  text-align: center;
+  font-size: 4vh;
+  padding: 2vh 2vw;
+  text-decoration: none;
+  margin: 0;
+}
+ul.navbar li a:hover {
+  background-color: #ccc;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+div {
+  box-shadow: 0px 0px 4px #bbb;
+}
