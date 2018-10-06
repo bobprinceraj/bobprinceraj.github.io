@@ -7,12 +7,12 @@ div.navbar {
   border-right: 2px solid #bbb;
   border-left: 2px solid #fff;
 }
-ul.navbar li a {
+ul.navbar li {
   color: #000;
   border-right: 2px solid #bbb;
   border-left: 2px solid #fff;
 }
-ul.navbar li a:hover {
+ul.navbar li:hover {
   background-color: #bbb;
 }
 body {
