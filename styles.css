@@ -21,6 +21,8 @@ ul.navbar {
 }
 ul.navbar li {
   float: right;
+}
+ul.navbar li a {
   display: block;
   color: #555;
   text-align: center;
