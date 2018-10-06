@@ -1,7 +1,7 @@
 div.navbar {
   background-color: #f1e7d4;
   width: 100vw;
-  height: calc(2vw+4vh);
+  height: calc(2vw + 4vh);
   position: sticky;
   margin: auto;
 }
