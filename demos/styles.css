@@ -1,7 +1,7 @@
 div.navbar {
   background-color: #ddd;
   width: 99.8vw;
-  height: calc(2vw+4vh);
+  height: calc(2vw + 4vh);
   border-bottom: 2px solid #bbb;
   border-top: 2px solid #fff;
   border-right: 2px solid #bbb;
