@@ -2,10 +2,10 @@ div.navbar {
   background-color: #f1e7d4;
   border-bottom: 0px;
 }
-ul.navbar li a {
+ul.navbar li {
   color: #334;
 }
-ul.navbar li a:hover {
+ul.navbar li:hover {
   background-color: #e0d6c3;
 }
 body {
