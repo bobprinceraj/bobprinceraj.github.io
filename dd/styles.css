@@ -1,32 +1,14 @@
 div.navbar {
   background-color: #f1e7d4;
-  width: 100vw;
-  height: calc(2.25vw + 4vh);
-  position: sticky;
-  margin: auto;
-}
-ul.navbar {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-ul.navbar li {
-  float: right;
+  border-bottom: 0px;
 }
 ul.navbar li a {
-  display: block;
-  text-align: center;
-  font-size: 2vw;
-  padding: 2vh 2vw;
-  text-decoration: none;
-  margin: 0;
+  color: #000;
 }
 ul.navbar li a:hover {
   background-color: #e0d6c3;
 }
 body {
-  margin: 0;
-  padding: 0;
   color: #334;
   font-variant: small-caps;
   font-family: Georgia;
