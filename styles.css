@@ -39,6 +39,7 @@ ul.navbar li:hover {
 .dropdown {
   padding: 2vh 2vw;
   display: block;
+  position: absolute;
 }
 .dropdown-content {
   display: none;
