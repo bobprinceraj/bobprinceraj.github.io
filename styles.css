@@ -5,10 +5,11 @@ body {
 }
 #navbar {
   background-color: #222;
-  height: 25px;
+  height: 50px;
   width: 100%;
   color: #FFF;
 }
 #navbar button {
-  width: 75px;
+  width: 100px;
+  border-right: 2px #666;
 }
