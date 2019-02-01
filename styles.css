@@ -11,7 +11,7 @@ body {
   overflow: auto;
 }
 #navbar a {
-  display: block;
+  display: inline-block;
   width: 100px;
   height: 40px;
   border: 0px;
