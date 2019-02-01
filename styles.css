@@ -8,6 +8,7 @@ body {
   height: 50px;
   width: 100%;
   color: #FFF;
+  padding: 5px;
 }
 #navbar button {
   background-color: #222;
@@ -15,4 +16,5 @@ body {
   height: 50px;
   border: 0px;
   border-right: 2px #666;
+  margin-right: 5px;
 }
