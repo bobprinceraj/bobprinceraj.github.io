@@ -10,11 +10,11 @@ body {
   color: #FFF;
   padding: 5px;
 }
-#navbar button {
-  background-color: #222;
+#navbar a {
+  display: block;
   width: 100px;
-  height: 50px;
+  height: 40px;
   border: 0px;
-  border-right: 2px #666;
+  border-right: 2px solid #666;
   margin-right: 5px;
 }
