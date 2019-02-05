@@ -1,4 +1,4 @@
-function navinclude {
+function navinclude (document) {
   var xhr= new XMLHttpRequest();
   xhr.open('GET', 'navbar.html', true);
   xhr.onreadystatechange= function() {
