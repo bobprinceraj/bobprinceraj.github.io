@@ -24,3 +24,10 @@ body {
   text-decoration: none;
   line-height: 20px;
 }
+.content {
+  padding: 10px;
+  border-radius: 5%;
+  width: 66%;
+  margin-left: 17%;
+  text-align: center;
+}
